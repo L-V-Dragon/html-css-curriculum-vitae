@@ -10,10 +10,29 @@
     background-color: white;
 }
 
-.bg{
+.div-top{
     margin: auto;
     width: 50%;
     border-bottom: 3px solid goldenrod;
     background-color: lightgrey;
 
+}
+
+.div-mid{
+    margin: auto;
+    width: 48%;
+}
+
+h2{
+    color:goldenrod;
+}
+
+h3{
+    font-style: italic;
+}
+
+hr{
+    border-top: 1px solid gold;
+    width: 50%;
+    text-align: center;
 }
