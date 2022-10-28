@@ -1,0 +1,19 @@
+.aligment-text {
+    text-align: center;
+}
+
+.align-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 21%;
+    background-color: white;
+}
+
+.bg{
+    margin: auto;
+    width: 50%;
+    border-bottom: 3px solid goldenrod;
+    background-color: lightgrey;
+
+}
